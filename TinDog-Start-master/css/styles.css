@@ -16,9 +16,6 @@ h1{
 }
 
 .title-img{
-	position: relative;
-	bottom: 10%;
-	left: 30%;
 	width: 50%;
 	transform: rotate(25deg);
 }
